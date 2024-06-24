@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32015809550",
+    "project_id": "users-origifts",
+    "storage_bucket": "users-origifts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32015809550:android:123f43e6660ef9e873905f",
+        "android_client_info": {
+          "package_name": "com.example.crud_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRyzwSebLofr67u6K0nbvT810_kHOV-90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32015809550:android:3beb1e4e58c0251173905f",
+        "android_client_info": {
+          "package_name": "com.example.ori_gifts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRyzwSebLofr67u6K0nbvT810_kHOV-90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

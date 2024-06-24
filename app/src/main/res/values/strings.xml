@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Original Gifts</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="ini">Iniciar Sesión</string>
+    <string name="res">Registro</string>
+    <string name="crear">Crear</string>
+    <string name="logout">Cerrar Sesión</string>
+</resources>
